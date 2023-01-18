@@ -1,17 +1,11 @@
-print("Hello iNeuron !!!")
-print("hello")
-print("Hello iNeuron !!!")
-print("hello")
-print("hello")print("Hello iNeuron !!!")
-print("hello")print("Hello iNeuron !!!")
-print("hello")print("Hello iNeuron !!!")
-print("hello")print("Hello iNeuron !!!")
-print("hello")print("Hello iNeuron !!!")
-print("Let's create a conflict")
-print("hello")print("Hello iNeuron !!!")
-print("hello")
+print("Line1")
+print("Line2")
+print("Line3")
+print("Line4")
+print("Line5")
+print("Line6")
 
-
+# Condition for merge conflict is that, the charge should occurs in the same line.
 
 
 
